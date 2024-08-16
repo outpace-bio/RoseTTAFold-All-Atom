@@ -251,18 +251,17 @@ dependencies:
   - scikit-learn=1.4.1.post1=py310h1fdf081_0
   - scipy=1.12.0=py310hb13e2d6_2
   - setuptools=69.1.1=pyhd8ed1ab_0
-  - signalp6=6.0g=1
   - sip=6.7.12=py310hc6cd4ac_0
   - six=1.16.0=pyh6c4a22f_0
   - snappy=1.1.10=h9fff704_0
   - sympy=1.12=pypyh9d50eac_103
   - tbb=2021.9.0=hf52228f_0
-  - tensorboard=2.11.2=pyhd8ed1ab_0
+  - tensorboard=2.11.1=pyhd8ed1ab_0
   - tensorboard-data-server=0.6.1=py310h600f1e7_4
   - tensorboard-plugin-wit=1.8.1=pyhd8ed1ab_0
-  - tensorflow=2.11.0=cuda112py310he87a039_0
-  - tensorflow-base=2.11.0=cuda112py310h52da4a5_0
-  - tensorflow-estimator=2.11.0=cuda112py310h37add04_0
+  - tensorflow
+  - tensorflow-base
+  - tensorflow-estimator
   - termcolor=2.4.0=pyhd8ed1ab_0
   - threadpoolctl=3.3.0=pyhc1e730c_0
   - tk=8.6.13=noxft_h4845f30_101
